@@ -2,7 +2,7 @@ INTRODUCTION
 ------------
 
 The E-commerce site Menu module displays the entire purchase menu tree in a tab menu, providing users one- or
-two-click access to most pages.  
+two-click access to purchase products.  
 
  * For a full description of the module, visit the project page:
    http://automationpractice.com/
